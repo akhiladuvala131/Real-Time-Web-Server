@@ -46,23 +46,6 @@ First, clone this repository to your local machine:
 git clone https://github.com/akhiladuvala131/Real-Time-Web-Server.git
 cd Real-Time-Web-Server
 
-### Usage
-After successfully building and running the Docker container, you can start using your real-time web application. Follow these steps:
-
-Step 1: Open the Application
-Step 2: Interact with the Application
-Step 3: Test with Multiple Users
-Step 4: Monitor Server Logs
-Example Interaction:
-User A sends a message.
-User B, connected to the same server, sees the message appear instantly in their chat interface.
-
-### License
-MIT License
-
-Copyright (c) [2024] [AKHIL ADUVALA]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
 
 
 
