@@ -33,6 +33,6 @@ This project demonstrates how to create a real-time web application using Node.j
 ### Clone the Repository
 First, clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/Real-Time-Web-Server.git
+git clone https://github.com/akhiladuvala131/Real-Time-Web-Server.git
 cd Real-Time-Web-Server
-g
+
